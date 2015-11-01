@@ -12,12 +12,11 @@ Node Insert(Node head,int data) {
 // You only need to complete this method. 
     if (head == null) {
         head.data = data;
-        head.next = null;   
-    return head; 
+        return head; 
     } else {
         Node next = new Node();
         next.data = data;
-        next.next = null;
+
         Node current = head;
         while (current != null) {
             if (current.next == null) {
