@@ -1,11 +1,8 @@
 Hackerrank solutions
 	Data Structures:
 
-		Arrays
-			- https://www.hackerrank.com/domains/data-structures/arrays 
+		<a href="https://www.hackerrank.com/domains/data-structures/arrays"> Arrays </a>
 
-		LinkedLists
-			- https://www.hackerrank.com/domains/data-structures/linked-lists
+		<a href="https://www.hackerrank.com/domains/data-structures/linked-lists"> LinkedLists </a>
 
-		Trees
-			- https://www.hackerrank.com/domains/data-structures/trees
+		<a href="https://www.hackerrank.com/domains/data-structures/trees"> Trees </a>
