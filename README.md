@@ -7,6 +7,7 @@ Hackerrank solutions
 		
 [Trees](https://www.hackerrank.com/domains/data-structures/trees)
 
+#License
 The MIT License (MIT)
 
 Copyright (c) [2015] [Cheng Peng]
